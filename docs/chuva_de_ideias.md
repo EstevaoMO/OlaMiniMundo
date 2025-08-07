@@ -20,8 +20,8 @@ Preparando a geração do **futuro**;
 ### -> Olá, MiniMundo: Nível 1
 
 - **INFORMAÇÕES GERAIS DO PLANO:**
-    - Preço: R$ 150 / mês
-    - Faixa-etária: 9 ~ 12
+    - Preço: R$ 199,90 / mês
+    - Faixa-etária: 9 ~ 11
     - Duração estimada: 6 meses
 
 - **BLOCO A:** Pensamento Computacional
@@ -37,6 +37,7 @@ Preparando a geração do **futuro**;
         - Panorama sobre OS
         - Pastas e Arquivos
         - Organização
+    - Versionamenteo
     - Inteligência Artificial
         - Uso Consciente de IA
         - Como funcionam as IAs
@@ -69,7 +70,7 @@ Preparando a geração do **futuro**;
 ### -> Olá, MiniMundo: Nível 2
 
 - **INFORMAÇÕES GERAIS DO PLANO:**
-    - Preço: R$ 180 / mês
+    - Preço: R$ 227,90 / mês
     - Faixa-etária: 12 ~ 14
     - Duração estimada: 8 meses
 
@@ -88,7 +89,7 @@ Preparando a geração do **futuro**;
         - Organização
     - Versionamento
         - Boas Práticas de Versionamento
-        - Github
+        - Git / Github
     - Inteligência Artificial
         - Uso Consciente de IA
         - Como funcionam as IAs
@@ -125,7 +126,7 @@ Preparando a geração do **futuro**;
 ### -> Olá, MiniMundo: Nível 3
 
 - **INFORMAÇÕES GERAIS DO PLANO:**
-    - Preço: R$ 200 / mês
+    - Preço: R$ 249,90 / mês
     - Faixa-etária: 15 ~ 18
     - Duração estimada: 11 meses
 
